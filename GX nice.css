@@ -25,8 +25,8 @@ button {
         color: #fff;
         padding: 8px;
         box-shadow: 0 0 30px 0 darkred;
-                    0 0 30px 0 blue;
-                    0 0 10px 0 blue inset; 
+                    0 0 30px 0 gray;
+                    0 0 10px 0 gray inset; 
         }
 
 
@@ -59,6 +59,18 @@ button {
         .gallery img:hover {
             flex: 2;
         }
+
+
+
+ body {
+  background-image: url('as.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+
 
 
 
